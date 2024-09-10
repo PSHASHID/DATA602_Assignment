@@ -1,3 +1,0 @@
-Why Data Science? 
-
-I have been fascinated by the amount of data being generated worldwide using this data people are building recommendation systems, and AI models such as ChatGPT which intrigues me. I would like to learn the tools and gain the required expertise to contribute to the existing models and build my own models, which can contribute to society going forward.
